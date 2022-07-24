@@ -13,10 +13,12 @@
  </tr>
  <tr>
     <td> Aelfric Eden</td>
-    <td>Lorem ipsum Developed creative video content to grow TikTok followers using Video leap, Viamaker, and created fun and original social media content, including text posts, images and content ideas to build brand awareness of global street culture.
+    <td> •Developed creative video content to grow TikTok followers using Video leap, Viamaker, and created fun and original social media content, including text posts, images and content ideas to build brand awareness of global street culture.
 • Increased followers from 1.2k to 186K on TikTok by content creation, communication and maintenance of followers and KOLs within two years.
 • Scheduling social media posts using applications, monitored, routed and replied to social comments and inquiries.</td>
-    <td>Lorem ipsum 123353654</td>
-    <td>Lorem ipsum 123353654</td>
+    <td>XueErMei Education</td>
+    <td> •Developed plans, prepared subject-specific material for the education, and encouraged creativity by giving students choices in learning topics and methods.
+• Tracked students’ progress, and improved delivery of instruction by analyzing and distilling test data to identify opportunities for intervention and enrichment.
+• Handled challenging classroom behaviors with positive and affirming techniques.</td>
  </tr>
 </table>
