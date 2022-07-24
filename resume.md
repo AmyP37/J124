@@ -12,7 +12,7 @@
     <td><b style="font-size:30px">Job Description</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum Aelfric Eden</td>
+    <td> Aelfric Eden</td>
     <td>Lorem ipsum Developed creative video content to grow TikTok followers using Video leap, Viamaker, and created fun and original social media content, including text posts, images and content ideas to build brand awareness of global street culture.
 • Increased followers from 1.2k to 186K on TikTok by content creation, communication and maintenance of followers and KOLs within two years.
 • Scheduling social media posts using applications, monitored, routed and replied to social comments and inquiries.</td>
