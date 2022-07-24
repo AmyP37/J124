@@ -1,6 +1,6 @@
 <h1> Amy Peng
 </h1>
-<h2> I am a social media influencer
+<h2> I am a Tiktok Content Creator.
 </h2>
 <img alt="My Profile Picture" src="https://raw.githubusercontent.com/AmyP37/J124/main/Image/IMG_4637.JPG" />
 <h3> Skills
