@@ -6,7 +6,8 @@
 <h3> Skills
   1.Management 2.Language 3.Critical Thinking
 </h3>
-| Employer  | Job Description |
+
+| Employer      | Job Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
