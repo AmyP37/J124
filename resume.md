@@ -6,17 +6,7 @@
 <h3> Skills
   1.Management 2.Language 3.Critical Thinking
 </h3>
-
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
-    <td><b style="font-size:12px">1234</b></td>
-    <td><b style="font-size:12px">T2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum 12</td>
-    <td>Lorem ipsum .34</td>
- </tr>
-</table>
+| Employer  | Job Description |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
