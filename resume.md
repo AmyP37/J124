@@ -7,4 +7,14 @@
   1.Management 2.Language 3.Critical Thinking
 <h4> Internships/Jobs
   Em                                         jo
-  </h4>
+</h4>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum 12345566</td>
+    <td>Lorem ipsum 123353654</td>
+ </tr>
+</table>
