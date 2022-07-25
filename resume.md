@@ -1,6 +1,6 @@
 # Amy Peng
 </h1>
-## I am a social media content creator
+## I am a Social Media Content Creator
 </h2>
 <img alt="My Profile Picture" src="https://raw.githubusercontent.com/AmyP37/J124/main/Image/IMG_4637.JPG" />
 ### Skills
