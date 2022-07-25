@@ -1,9 +1,9 @@
-# Amy Peng
+#Amy Peng
 </h1>
-## I am a Tiktok Content Creator.
+##I am a Tiktok Content Creator.
 </h2>
 <img alt="My Profile Picture" src="https://raw.githubusercontent.com/AmyP37/J124/main/Image/IMG_4637.JPG" />
-### Skills
+###Skills
   #1.Management 
   #2.Language 
   #3.Critical Thinking
