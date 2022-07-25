@@ -8,7 +8,7 @@
 
 ###   Skills
 * Management
-* Language
+* Fluent Mandarin, Cantonese
 * Critical Thinking
 </h3>
 
