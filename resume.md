@@ -1,6 +1,6 @@
 # Amy Peng
 </h1>
-<h2> I am a Senior Student at Cal with Media Studies major and Journalism minor.
+## I am a Senior Student at Cal with Media Studies major and Journalism minor.
 </h2>
 <img alt="My Profile Picture" src="https://raw.githubusercontent.com/AmyP37/J124/main/Image/IMG_4637.JPG" />
 ###  Skills
